@@ -1,3 +1,9 @@
+# title: cringeout
+# author: @d1gitale
+# desc: a breakout clone
+# site: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
+
 import pyxel
 import enum
 from ball import Ball
