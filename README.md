@@ -5,4 +5,4 @@
 1. Установить последнюю версию python.
 2. Склонировать репозиторий.
 3. В директории breakout выполнить команду ```pip install -r requirments.txt```
-4. Выполнить команду ```pyxel play``` или ```python main.py```
+4. Выполнить команду ```pyxel play breakout.pyxapp``` или ```python main.py```
