@@ -1,5 +1,6 @@
 import pyxel
 from math import copysign
+from time import sleep
 
 
 class Ball:
